@@ -1,5 +1,6 @@
 # ToolKit
-A ToolKit
+A tool kit full of useful pentesting free, and for most of them open source, tools.
+This list is not intended to be exhaustive, but useful: only tool we are using ;)
 
 ## Crypto
 - **length_to_morse**: Get morse code from the length of the word of the given .txt
