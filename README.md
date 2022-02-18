@@ -23,6 +23,6 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[ZAP](https://www.zaproxy.org/)**: OWASP browser proxy
 
 ### Tokens and Cookies
--**[JWT_tools](https://github.com/ticarpi/jwt_tool)**: JWT offline manipulation tools
+- **[JWT_tools](https://github.com/ticarpi/jwt_tool)**: JWT offline manipulation tools
 
 # OSINT
