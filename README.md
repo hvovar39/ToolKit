@@ -22,4 +22,7 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[BurpSuite](https://portswigger.net/burp/communitydownload)**: Web proxy and attack tool 
 - **[ZAP](https://www.zaproxy.org/)**: OWASP browser proxy
 
+### Tokens and Cookies
+-**[JWT_tools](https://github.com/ticarpi/jwt_tool)**: JWT offline manipulation tools
+
 # OSINT
