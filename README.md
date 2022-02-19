@@ -25,4 +25,9 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 ### Tokens and Cookies
 - **[JWT_tools](https://github.com/ticarpi/jwt_tool)**: JWT offline manipulation tools
 
-# OSINT
+## OSINT
+
+## Recon
+- **[Google Dorking](https://github.com/hvovar39/ToolKit/blob/main/CheatSheet/%5Bcheetsheat%5DGoogle_dorking.md)**: Google Dorking cheatsheet
+- **[Shodan](https://www.shodan.io/)**: IoT search engine
+- **[Thingful](https://www.thingful.net/)**:Iot search engine
