@@ -35,4 +35,4 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[Sublist3r](https://github.com/aboul3la/Sublist3r)**: CLI sub-domains ennumeration tool
 
 ## Social Engineering
-- **[BeEF](https://beefproject.com/): A browser exploitation framework
+- **[BeEF](https://beefproject.com/)**: A browser exploitation framework
