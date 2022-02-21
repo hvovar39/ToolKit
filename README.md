@@ -33,3 +33,6 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[Thingful](https://www.thingful.net/)**: Iot search engine
 - **[Netcraft](https://searchdns.netcraft.com/)**: Online sub-domains ennumeration
 - **[Sublist3r](https://github.com/aboul3la/Sublist3r)**: CLI sub-domains ennumeration tool
+
+## Social Engineering
+- **[BeEF](https://beefproject.com/): A browser exploitation framework
