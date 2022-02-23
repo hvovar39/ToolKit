@@ -3,7 +3,7 @@ A tool kit full of useful pentesting free, and for most of them open source, too
 This list is not intended to be exhaustive, but useful: only tool we are using ;)
 
 ## Crypto
-- **length_to_morse**: Get morse code from the length of the word of the given .txt
+- **[length_to_morse](https://github.com/hvovar39/ToolKit/blob/main/Crypto/length_to_morse.py)**: Get morse code from the length of the word of the given .txt
 - **[Hashcat](https://hashcat.net/hashcat/)**: Password cracker
 
 ## Linux
@@ -26,6 +26,9 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[JWT_tools](https://github.com/ticarpi/jwt_tool)**: JWT offline manipulation tools
 
 ## OSINT
+- **[The Harvester](https://github.com/laramies/theHarvester)**: A CLI data harvester ( emails, names, subdomains, IPs and URLs )
+- **[Metagoofil](https://github.com/opsdisk/metagoofil)**: A CLI public document collector using google Dork
+- **[ExifTool](https://exiftool.org/)**: A CLI metadata extractor
 
 ## Recon
 - **[Google Dorking](https://github.com/hvovar39/ToolKit/blob/main/CheatSheet/%5Bcheetsheat%5DGoogle_dorking.md)**: Google Dorking cheatsheet
@@ -36,3 +39,12 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 
 ## Social Engineering
 - **[BeEF](https://beefproject.com/)**: A browser exploitation framework
+
+## Exploitation
+- **[Metasploit](https://www.metasploit.com/)**: The infamous exploit framework
+- **[Exploit-db](https://www.exploit-db.com/)**: An online exploit database
+- **[CVE Details](https://www.cvedetails.com/)**: An online CVE database
+
+## Wordlist
+- **[CeWL](https://github.com/digininja/CeWL)**: A CLI Wordlist generator. Generate custom wordlist from a URL or a domain
+- **[SecLists](https://github.com/danielmiessler/SecLists)**: A github repo with lots of Wordlist
