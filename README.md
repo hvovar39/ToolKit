@@ -34,8 +34,11 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[Google Dorking](https://github.com/hvovar39/ToolKit/blob/main/CheatSheet/%5Bcheetsheat%5DGoogle_dorking.md)**: Google Dorking cheatsheet
 - **[Shodan](https://www.shodan.io/)**: IoT search engine
 - **[Thingful](https://www.thingful.net/)**: Iot search engine
+
+### DNS
 - **[Netcraft](https://searchdns.netcraft.com/)**: Online sub-domains ennumeration
 - **[Sublist3r](https://github.com/aboul3la/Sublist3r)**: CLI sub-domains ennumeration tool
+- **[DNSEnum](https://github.com/SparrowOchon/dnsenum2)**: multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.
 
 ## Social Engineering
 - **[BeEF](https://beefproject.com/)**: A browser exploitation framework
