@@ -82,6 +82,7 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[Mimikatz](https://github.com/gentilkiwi/mimikatz)**: Credentials dumping tool.
 - **[PowerShell Empire](https://github.com/BC-SECURITY/Empire)**: Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
 - **[LOLBAS](https://lolbas-project.github.io)**: Living Off The Land Binaries, Scripts and Libraries.
+- **[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)**: A collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
 
 
 # Crypto
