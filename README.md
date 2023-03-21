@@ -88,10 +88,12 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 ## Wordlist
 - **[CeWL](https://github.com/digininja/CeWL)**: A CLI Wordlist generator. Generate custom wordlist from a URL or a domain
 - **[SecLists](https://github.com/danielmiessler/SecLists)**: A github repo with lots of Wordlist
+- **[Weakpass](https://weakpass.com/): For any kind of bruteforce find wordlists...
 
 ## Pasword cracking
 - **[Hashcat](https://hashcat.net/hashcat/)**: Password cracker.
 - **[John](https://github.com/openwall/john)**: Password cracker.
+- **[OneRuleToRuleThemAll](https://github.com/NotSoSecure/password_cracking_rules)**: A maxi rule file for mutating password list.
 
 
 # Homemade scripts
