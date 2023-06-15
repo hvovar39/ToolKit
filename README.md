@@ -84,6 +84,10 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[LOLBAS](https://lolbas-project.github.io)**: Living Off The Land Binaries, Scripts and Libraries.
 - **[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)**: A collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
 
+## Active Directory
+- **[BloodHound](https://github.com/BloodHoundAD/BloodHound)**: BloodHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory or Azure environment.
+- **[CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec)**: CrackMapExec is a swiss army knife for pentesting Windows/Active Directory environments.
+
 
 # Crypto
 
@@ -97,6 +101,19 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[John](https://github.com/openwall/john)**: Password cracker.
 - **[OneRuleToRuleThemAll](https://github.com/NotSoSecure/password_cracking_rules)**: A maxi rule file for mutating password list.
 
+
+# Reverse Engineering
+
+## Disassembler and Decompiler
+- **[Ghidra](https://ghidra-sre.org/)**: NSA open-source disassemble/decompiler written in Java.
+- **[IDA](https://www.hex-rays.com/ida-free/)**: Proprietary disassembler/decompiler base on plugins.
+
+## Debugging
+- **[GDB](https://www.sourceware.org/gdb/)**: Well ... lets start with the basics.
+- **[PEDA](https://github.com/longld/peda)**: Python Exploit Development Assistance for GDB is a handfull set of usefull gdb improvement.
+- **[objdump](https://linux.die.net/man/1/objdump)**: command line utilies to display informations about object files.
+- **[ImmunityDebugger](https://www.immunityinc.com/products/debugger/)**: A GUI debugger usefull on windows, with a python script engine.
+- **[Mona](https://github.com/corelan/mona)**: Mona.py is a python script that can be used to automate and speed up specific searches while developing exploits (typically for the Windows platform).
 
 # Homemade scripts
 
