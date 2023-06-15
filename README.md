@@ -46,7 +46,7 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 
 ## Network
 - **[Nmap](https://nmap.org/)**: The classic network scanner.
-  - [[CheatSheer]Nmap.md](CheatSheet/[CheatSheet]Nmap.md)
+  - [[CheatSheet]Nmap.md](CheatSheet/[CheatSheet]Nmap.md)
 - **[Masscan](https://github.com/robertdavidgraham/masscan)**: This is an Internet-scale port scanner.
 
 ## Web
@@ -68,7 +68,7 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 
 ## Frameworks
 - **[Metasploit](https://www.metasploit.com/)**: The infamous exploit framework
-  - [[CheatSheet]Metasploit.md](CheatSheet/[CheatSheet]Meatsploit.md
+  - [[CheatSheet]Metasploit.md](CheatSheet/[CheatSheet]Meatsploit.md)
 
 
 # Post-exploit
@@ -90,7 +90,7 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 ## Wordlist
 - **[CeWL](https://github.com/digininja/CeWL)**: A CLI Wordlist generator. Generate custom wordlist from a URL or a domain
 - **[SecLists](https://github.com/danielmiessler/SecLists)**: A github repo with lots of Wordlist
-- **[Weakpass](https://weakpass.com/): For any kind of bruteforce find wordlists...
+- **[Weakpass](https://weakpass.com/)**: For any kind of bruteforce find wordlists...
 
 ## Pasword cracking
 - **[Hashcat](https://hashcat.net/hashcat/)**: Password cracker.
