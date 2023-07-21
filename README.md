@@ -109,6 +109,7 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 
 ### Pasword cracking
 
+- **[hash-identifier](https://github.com/blackploit/hash-identifier)**: CLI python hash identifier.
 - **[Hashcat](https://hashcat.net/hashcat/)**: Password cracker.
 - **[John](https://github.com/openwall/john)**: Password cracker.
 - **[OneRuleToRuleThemAll](https://github.com/NotSoSecure/password_cracking_rules)**: A maxi rule file for mutating password list.
