@@ -59,6 +59,7 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 
 - **[WPScan](https://github.com/wpscanteam/wpscan)**: Vulnerability scanner fot WordPress website
 - **[OpenVAS](https://github.com/greenbone/openvas-scanner)**: Website vulnerability scanner
+- **[Feroxbuster](https://github.com/epi052/feroxbuster)**: Feroxbuster is a Rust based tool designed to perform Forced Browsing.
 
 ## Exploit
 
@@ -86,6 +87,7 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[PEASS-ng](https://github.com/carlospolop/PEASS-ng)**: Privilege escalation tools for Windows and Linux/Unix* and MacOS.
   - [LinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS): Privilege escalation vulnerability scanner for linux.
   - [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS): Privilege escalation vulnerability scanner for Windows.
+- **[GTFOBins](https://gtfobins.github.io/)**: A database of linux binaries that can be abuse to elevate privileges and/or escape restricted environments.
 
 ### Windows
 
@@ -93,6 +95,7 @@ This list is not intended to be exhaustive, but useful: only tool we are using ;
 - **[PowerShell Empire](https://github.com/BC-SECURITY/Empire)**: Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
 - **[LOLBAS](https://lolbas-project.github.io)**: Living Off The Land Binaries, Scripts and Libraries.
 - **[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)**: A collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
+- **[Evil-winrm](https://github.com/Hackplayers/evil-winrm)**: Winrm shell ++
 
 ### Active Directory
 
